@@ -183,7 +183,9 @@ Displays and manages user account information.
 Include screenshots of the following pages:
 
 * Landing Page
+* <img width="1887" height="977" alt="Screenshot 2026-07-10 162736" src="https://github.com/user-attachments/assets/a02b1e80-c14b-46f0-84d9-68d15937482e" />
 * Login
+* 
 * Signup
 * Dashboard
 * Tasks
