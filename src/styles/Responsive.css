@@ -1,0 +1,162 @@
+/* ===========================
+   LARGE LAPTOP
+=========================== */
+
+@media (max-width: 1200px){
+
+    .dashboard-content{
+        padding:30px;
+    }
+
+    .hero{
+        gap:40px;
+    }
+
+    .hero-left h1{
+        font-size:52px;
+    }
+
+}
+
+/* ===========================
+   TABLET
+=========================== */
+
+@media (max-width: 992px){
+
+    .navbar{
+        padding:0 5%;
+    }
+
+    .hero{
+        grid-template-columns:1fr;
+        text-align:center;
+        padding:120px 5%;
+    }
+
+    .hero-buttons{
+        justify-content:center;
+    }
+
+    .hero-right{
+        margin-top:30px;
+    }
+
+    .dashboard-layout{
+        flex-direction:column;
+    }
+
+    .dashboard-content{
+        margin-left:0;
+        padding:25px;
+    }
+
+    .dashboard-cards{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .chart-container{
+        grid-template-columns:1fr;
+    }
+
+    .feature-grid{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+}
+
+/* ===========================
+   MOBILE
+=========================== */
+
+@media (max-width:768px){
+
+    .navbar{
+        height:70px;
+        padding:0 20px;
+    }
+
+    .nav-links{
+        gap:15px;
+        font-size:14px;
+    }
+
+    .logo{
+        font-size:24px;
+    }
+
+    .hero-left h1{
+        font-size:40px;
+    }
+
+    .hero-left p{
+        font-size:16px;
+    }
+
+    .dashboard-header{
+        flex-direction:column;
+        align-items:flex-start;
+        gap:15px;
+    }
+
+    .dashboard-cards{
+        grid-template-columns:1fr;
+    }
+
+    .feature-grid{
+        grid-template-columns:1fr;
+    }
+
+    .data-item{
+        flex-direction:column;
+        align-items:flex-start;
+        gap:15px;
+    }
+
+}
+
+/* ===========================
+   SMALL MOBILE
+=========================== */
+
+@media (max-width:480px){
+
+    .hero{
+        padding:100px 20px;
+    }
+
+    .hero-left h1{
+        font-size:32px;
+    }
+
+    .hero-buttons{
+        flex-direction:column;
+    }
+
+    .primary-btn,
+    .secondary-btn{
+        width:100%;
+        text-align:center;
+    }
+
+    .dashboard-content{
+        padding:15px;
+    }
+
+    .auth-card{
+        padding:20px;
+    }
+
+    .dashboard-card{
+        padding:18px;
+    }
+
+    .component-card{
+        padding:18px;
+    }
+
+    .chart-card{
+        padding:18px;
+    }
+
+}

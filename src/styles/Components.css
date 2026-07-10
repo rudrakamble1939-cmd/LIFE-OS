@@ -1,0 +1,343 @@
+
+
+/* ===========================
+   COMMON COMPONENT CARDS
+=========================== */
+
+
+.component-card{
+
+    background:rgba(255,255,255,.08);
+
+    border:1px solid rgba(255,255,255,.1);
+
+    backdrop-filter:blur(15px);
+
+    border-radius:20px;
+
+    padding:25px;
+
+    transition:.3s;
+
+}
+
+
+.component-card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 15px 35px rgba(0,0,0,.3);
+
+}
+
+
+/* ===========================
+   DASHBOARD CARD
+=========================== */
+
+
+.dashboard-card-icon{
+
+    width:55px;
+
+    height:55px;
+
+    border-radius:15px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:28px;
+
+    background:rgba(59,130,246,.2);
+
+    margin-bottom:20px;
+
+}
+
+
+
+.dashboard-card-title{
+
+    color:#94a3b8;
+
+    font-size:15px;
+
+}
+
+
+.dashboard-card-value{
+
+    color:white;
+
+    font-size:34px;
+
+    font-weight:700;
+
+    margin-top:10px;
+
+}
+
+
+.dashboard-card-subtitle{
+
+    color:#cbd5e1;
+
+    margin-top:8px;
+
+}
+
+
+
+/* ===========================
+   TASK CARD
+=========================== */
+
+
+.task-card{
+
+    background:rgba(255,255,255,.08);
+
+    border:1px solid rgba(255,255,255,.1);
+
+    padding:20px;
+
+    border-radius:18px;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+
+
+.task-card h3{
+
+    color:white;
+
+    margin-bottom:8px;
+
+}
+
+
+.task-card p{
+
+    color:#94a3b8;
+
+}
+
+
+
+.task-status{
+
+    padding:8px 15px;
+
+    border-radius:20px;
+
+    background:#2563eb;
+
+    color:white;
+
+    font-size:13px;
+
+}
+
+
+
+/* ===========================
+   HABIT CARD
+=========================== */
+
+
+.habit-card{
+
+    background:rgba(255,255,255,.08);
+
+    padding:25px;
+
+    border-radius:20px;
+
+}
+
+
+
+.habit-card h3{
+
+    color:white;
+
+}
+
+
+.habit-streak{
+
+    font-size:32px;
+
+    color:#60a5fa;
+
+    font-weight:700;
+
+}
+
+
+
+/* ===========================
+   EXPENSE CARD
+=========================== */
+
+
+.expense-card{
+
+    background:rgba(255,255,255,.08);
+
+    padding:25px;
+
+    border-radius:20px;
+
+}
+
+
+
+.expense-card h3{
+
+    color:white;
+
+}
+
+
+.expense-amount{
+
+    font-size:30px;
+
+    color:#22c55e;
+
+    font-weight:700;
+
+}
+
+
+
+/* ===========================
+   CHART CARD
+=========================== */
+
+
+.chart-card{
+
+    background:rgba(255,255,255,.08);
+
+    border:1px solid rgba(255,255,255,.1);
+
+    border-radius:20px;
+
+    padding:25px;
+
+}
+
+
+.chart-card-title{
+
+    color:white;
+
+    font-size:20px;
+
+    margin-bottom:20px;
+
+}
+
+
+
+/* ===========================
+   LOADER
+=========================== */
+
+
+.loader{
+
+    width:45px;
+
+    height:45px;
+
+    border-radius:50%;
+
+    border:5px solid rgba(255,255,255,.2);
+
+    border-top:5px solid #3b82f6;
+
+    animation:spin 1s linear infinite;
+
+    margin:auto;
+
+}
+
+
+
+@keyframes spin{
+
+    from{
+
+        transform:rotate(0deg);
+
+    }
+
+    to{
+
+        transform:rotate(360deg);
+
+    }
+
+}
+
+
+
+/* ===========================
+   BUTTONS
+=========================== */
+
+
+.card-btn{
+
+    padding:10px 20px;
+
+    border-radius:10px;
+
+    background:#2563eb;
+
+    color:white;
+
+    transition:.3s;
+
+}
+
+
+.card-btn:hover{
+
+    background:#1d4ed8;
+
+}
+
+
+
+/* ===========================
+   MOBILE
+=========================== */
+
+
+@media(max-width:600px){
+
+.task-card{
+
+    flex-direction:column;
+
+    align-items:flex-start;
+
+    gap:15px;
+
+}
+
+}
