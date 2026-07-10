@@ -185,17 +185,28 @@ Include screenshots of the following pages:
 * Landing Page
 * <img width="1887" height="977" alt="Screenshot 2026-07-10 162736" src="https://github.com/user-attachments/assets/a02b1e80-c14b-46f0-84d9-68d15937482e" />
 * Login
-* 
+* <img width="1917" height="972" alt="Screenshot 2026-07-10 162748" src="https://github.com/user-attachments/assets/c7bce8c9-834c-4af9-9cc3-4ec6f8185a8d" />
 * Signup
+* <img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/b10dab49-763c-4b07-ab36-962167868133" />
 * Dashboard
+* <img width="1915" height="972" alt="Screenshot 2026-07-10 162830" src="https://github.com/user-attachments/assets/1fe047c7-0ecf-4148-8aa3-086eee38cc54" />
 * Tasks
+* <img width="1910" height="972" alt="Screenshot 2026-07-10 162838" src="https://github.com/user-attachments/assets/5e0b9c0e-2138-4612-aa51-a91a0e09d4c2" />
 * Notes
+* <img width="1915" height="972" alt="Screenshot 2026-07-10 162847" src="https://github.com/user-attachments/assets/48337239-f465-4a13-aaee-03739a58cdae" />
 * Habits
+* <img width="1919" height="975" alt="Screenshot 2026-07-10 162853" src="https://github.com/user-attachments/assets/455858ff-0de7-4254-8f45-4fbedc89721d" />
 * Expenses
+* <img width="1919" height="968" alt="Screenshot 2026-07-10 162857" src="https://github.com/user-attachments/assets/1ed14230-9999-4c97-8a45-06ba3501ebb9" />
 * Analytics Dashboard
+* <img width="1908" height="984" alt="Screenshot 2026-07-10 162902" src="https://github.com/user-attachments/assets/d0980618-a4cf-4187-9556-065ae5e8a3bc" />
 * AI Planner
+* <img width="1908" height="984" alt="Screenshot 2026-07-10 162902" src="https://github.com/user-attachments/assets/4ce95d94-a7c5-44f9-8f74-b8ab12e308fc" />
 * Receipt Scanner
+* <img width="1915" height="974" alt="Screenshot 2026-07-10 162906" src="https://github.com/user-attachments/assets/4de1aeef-5cfc-4d93-8596-a2cfb3232ce0" />
 * Profile
+* <img width="1907" height="985" alt="Screenshot 2026-07-10 162911" src="https://github.com/user-attachments/assets/8872948b-df13-40b3-9b1f-0a3cdf9ae710" />
+
 
 ---
 
