@@ -215,7 +215,7 @@ Include screenshots of the following pages:
 **Live URL**
 
 ```
-https://life-os-jlxw.vercel.app/tasks
+https://life-os-jlxw.vercel.app/
 ```
 
 ---
