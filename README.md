@@ -215,7 +215,7 @@ Include screenshots of the following pages:
 **Live URL**
 
 ```
-Add your deployed application URL here
+https://life-os-jlxw.vercel.app/tasks
 ```
 
 ---
@@ -223,7 +223,7 @@ Add your deployed application URL here
 # GitHub Repository
 
 ```
-Add your GitHub repository link here
+https://github.com/rudrakamble1939-cmd/LIFE-OS.git
 ```
 
 ---
